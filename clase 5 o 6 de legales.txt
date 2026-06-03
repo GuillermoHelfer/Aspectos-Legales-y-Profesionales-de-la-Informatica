@@ -1,0 +1,46 @@
+Actos Juridicos:
+
+ART 259:
+	ARTÍCULO 259.- Acto jurídico. El acto jurídico es el acto voluntario lícito que tiene por fin inmediato la adquisición, 
+	modificación o extinción de relaciones o situaciones jurídicas.
+	
+	
+Forma del acto juridico:
+	es el conjunto de requisitos que la ley necesita que se cumplan para que exista un acto juridico.
+La prueba:
+	es la demostracion por alguno de los medios que establece la ley, de la verdad de un hecho.
+	
+Los actos juuridicos se plasman en INSTRUMENTOS (privados o publicos)
+
+para que un instrumento privado tenga caracter probatorio debe de estar firmado.
+
+FIRMA:
+Art 288:
+	La firma prueba la autoría de la declaración de voluntad expresada en el texto al cual corresponde. Debe consistir en el nombre del 
+	firmante o en un signo. En los instrumentos generados por medios electrónicos, el requisito de la firma de una persona queda 
+	satisfecho si se utiliza una firma digital, que asegure indubitablemente la autoría e integridad del instrumento.
+	
+
+OBLIGACIONES:
+	DAR:
+		el deudor se obliga a entregar algo
+	HACER:
+		el deudor se obliga a realizar algo
+	NO HACER:
+		
+
+Civil vs Penal: Civil reparacion monetaria, penal condena privativa de libertad.
+	Extracontractual:
+		Prevencion vs Resarcimiento
+	
+	Contractual:
+		Incumplimiento (del contrato).
+		
+
+Contratos Informaticos:
+	la ley contempla algunas situaciones donde hay una responsabilidad que tiene que ver con la culpa de la persona que causa el danio
+	
+	la ley tambien contempla que hay ciertas responsabilidades extraordinarias por la manipulacion o tenencia de cosas peligrosas.
+		el duenio se hace responsable por los danios causados.
+		
+	

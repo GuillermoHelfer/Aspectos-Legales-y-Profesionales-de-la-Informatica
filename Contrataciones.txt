@@ -1,0 +1,47 @@
+Sobre la clase pasada de marketing:
+	
+	COPIA:
+	
+	CONFUSION:
+		hacer un producto parecido que presuma cualidades del producto premium.
+	
+	DILUSION:
+		productos que una marca actualmente no vende: ej ferrari no vende comida. una cadena de comida llamada ferrari.
+	
+	Ley de Marcas:
+		se inscriben, y son constitutivas (si alguien las registra antes que vos no tenes los derechos)
+		
+	
+	
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+CONTRATOS:
+
+Cesion de Derechos:
+	se parece mas a una venta
+
+Licencia de Uso:
+	se parece mas a un alquiler
+	
+NO OTORGA LA PROPIEDAD SINO EL USO Y GOCE.
+
+Obligaciones del licenciante:
+	otorgar uso y goce del software
+		asume la garantia por vicios y turbaciones
+		no asume la defensa de la marca y su publicidad
+		
+Obligaciones del licenciatario:
+	Utilizacion funcional de la licencia
+	Habitualmente pago del precio
+	
+Licencias No Propietarias:
+	permite modificar el programa y redistribuir la copia.
+	dos movimientos principales
+		> software libre
+		> software de codigo abierto
+		
+	en una licencia de microsoft lo primero que se prohibe es el acceso al codigo fuente
+	
+
+	
+	

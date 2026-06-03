@@ -1,0 +1,2 @@
+Clase de Privacidad de Datos en BBDD:
+

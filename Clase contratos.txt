@@ -1,0 +1,29 @@
+CONTRATOS:
+
+	{1} Outsourcing
+	
+	{2} Mantenimiento
+	
+	
+	
+Outsourcing:
+	Se contratan los servicios de un proveedor que brinda sus maquinas y experiencia lo que resulta en un alto beneficio en un costo
+	reducido al del servicio.
+	
+Mantenimiento:
+	Dependencia:
+		Independencia formal (el mismo desarrollador que ya tenia) o real (otro desarrollador del que ya tenia)
+	Tiempo prestado:
+		preventivo (tratando que funcione con normalidad) o de emergencia (recuperar el estado de normalidad)
+	
+	
+///////////////////////////
+CONSEJOS:
+
+[1] Nunca incumplir un contrato o dejar de trabajar por mas que la otra parte incumpla. Siempre intimar con una carta documento para
+	que quede sentado el motivo de lo que vamos a hacer.
+	
+[2] Revisar que un contrato contenga las obligaciones y los alcances del servicios. (Lo que no esta expresamente incluido no entra)
+
+[3] 
+

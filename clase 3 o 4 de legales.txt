@@ -1,0 +1,50 @@
+el estado que es?
+
+tiene varias formas
+    -> nacion
+    -> estado 
+    -> gobierno
+
+Estado:
+    Unitario:
+        Central -> Locales
+    Federal:
+        Locales -> Central 
+
+En un gobierno federal, es el gobierno local el que delega algun poder al central
+En un gobierno central, es el gobierno central el que delega algun poder al local
+
+Un ejemplo de gobierno federal es el senado. El senado esta sobrerrepresentado en
+senadores por capita, pero esta diseniado asi para que el gobierno central no se
+imponga sobre el provincial. Se creo para darle representacion politica a las provincias y asi evitar que las provincias mas grandes se impongan sobre las menos populares.
+
+Se puede tener un sistema unitario que tenga instituciones descentralizadas y con
+mecanismos federales pero que los niveles de facultades sean tan significativas que algunas provincias tengan mas valor sobre otras.
+
+
+GOBIERNO:
+	Es la forma en la que se toman las decisiones, como se ejerce el poder.
+
+	Segun Aristoteles:
+	forma...       `   impurias...
+	monarquia      ~   tirania
+	aristocracia   ~   oligarquia
+	democracia
+	participativa  ~   demagogia
+
+	
+	
+FORMA DE GOBIERNO:
+	Monarquia
+		->	Absoluta: representada por una persona que toma su poder
+		->	Constitucional: 
+	Republica  
+		->	* Division de Poderes
+			* 
+			
+		->	
+	
+
+	
+
+
