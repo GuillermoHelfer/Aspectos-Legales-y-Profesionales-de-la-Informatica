@@ -1,2 +1,23 @@
 Clase de Privacidad de Datos en BBDD:
 
+Cualquier dato que permita id a la persona es un fato personal.
+
+Cualquier dato que se pueda sacar
+
+Principios:
+	Licitud (debe ser licita)
+	La finalidad debe estar dada y clara.
+	Pertinencia: de los datos en base a la finalidad de la BBDD.
+	Certeza
+	Consentimiento: EXCEPCIONES: 
+						-> el estado puede recavar y cruzar datos sin pedir consentimiento siempre que tenga un motivo pertinente.
+						-> datos publicos: no necesitan consentimiento cosas como nombre, apellido, cuit/cuil legajo.
+						-> para todo el resto se necesita consentimiento salvo que la persona los haga publicos.
+	Confidencialidad
+	Estandares minimos de seguridad
+	
+Los datos se pueden ceder en cuanto que el cediente y el cedido cumplan los mismos principios que acepto la persona que cedio sus datos
+
+El consentimiento es SIEMPRE REVOCABLE
+EL consentimiento no es requerido cuando el dato sea publico, cuando el estado lo solicite, cuando se dicte por una cuestion contractual
+
